@@ -28,8 +28,8 @@ namespace C1_WriteLine
             Console.WriteLine(text4);
 
 
-            
-            
+
+            Console.ReadKey();
 
 
 
