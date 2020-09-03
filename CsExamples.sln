@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C10_Struct", "C10_Struct\C1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C11_Enum", "C11_Enum\C11_Enum.csproj", "{CD650F98-E275-48CD-8B6F-2AD5834AEDAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C12_Interfaces_1", "C12_InterFaces_1\C12_Interfaces_1.csproj", "{B1317568-115E-48A6-ABA5-883374051912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C13_Interfaces_2", "C13_Interfaces_2\C13_Interfaces_2.csproj", "{0A026EF2-77F6-4E65-82CC-5E620C856921}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{CD650F98-E275-48CD-8B6F-2AD5834AEDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD650F98-E275-48CD-8B6F-2AD5834AEDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD650F98-E275-48CD-8B6F-2AD5834AEDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1317568-115E-48A6-ABA5-883374051912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1317568-115E-48A6-ABA5-883374051912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1317568-115E-48A6-ABA5-883374051912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1317568-115E-48A6-ABA5-883374051912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A026EF2-77F6-4E65-82CC-5E620C856921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A026EF2-77F6-4E65-82CC-5E620C856921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A026EF2-77F6-4E65-82CC-5E620C856921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A026EF2-77F6-4E65-82CC-5E620C856921}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
