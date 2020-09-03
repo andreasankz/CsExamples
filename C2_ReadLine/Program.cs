@@ -7,9 +7,6 @@ namespace C2_ReadLine
         static void Main(string[] args)
         {
 
-
-
-
             string name = String.Empty;
 
             Console.Write("Welcome Dude! What's your name? ");
