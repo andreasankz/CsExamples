@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C9_Lists", "C9_Lists\C9_Lis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C10_Struct", "C10_Struct\C10_Struct.csproj", "{239B4577-FEF4-4898-9D45-8A401D8154B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C11_Enum", "C11_Enum\C11_Enum.csproj", "{CD650F98-E275-48CD-8B6F-2AD5834AEDAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{239B4577-FEF4-4898-9D45-8A401D8154B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{239B4577-FEF4-4898-9D45-8A401D8154B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{239B4577-FEF4-4898-9D45-8A401D8154B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD650F98-E275-48CD-8B6F-2AD5834AEDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD650F98-E275-48CD-8B6F-2AD5834AEDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD650F98-E275-48CD-8B6F-2AD5834AEDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD650F98-E275-48CD-8B6F-2AD5834AEDAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
